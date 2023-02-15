@@ -1,7 +1,7 @@
 import {promises as fs} from 'fs'
 
 
-const fileName = "./src/models/productos.json";
+const fileName = "./src/files/productos.json";
 
 
 
